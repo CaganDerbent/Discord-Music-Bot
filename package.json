@@ -1,0 +1,23 @@
+{
+  "name": "dcbot-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@discordjs/voice": "^0.17.0",
+    "@distube/soundcloud": "^2.0.3",
+    "@distube/spotify": "^2.0.2",
+    "@distube/youtube": "^1.0.2",
+    "distube": "^5.0.2",
+    "dotenv": "^16.4.5",
+    "libsodium-wrappers": "^0.7.14",
+    "opusscript": "^0.0.8",
+    "ytdl-core": "^4.11.5"
+  }
+}
