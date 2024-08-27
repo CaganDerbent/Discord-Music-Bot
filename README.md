@@ -2,7 +2,7 @@
 A Discord music bot that plays MP3 files from Spotify and YouTube.
 
 # Documentation
-All the necessary information can be found at the link below.
+All the necessary information can be found at the link: 
 https://discord.js.org/
 
 # Footage
